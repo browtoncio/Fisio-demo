@@ -1091,6 +1091,18 @@ section {
   color: rgba(255,255,255,0.85);
 }
 
+.about-photo-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  z-index: 0;
+}
+
+.about-photo .credential-badge { z-index: 2; }
+
 .about-photo .credential-badge {
   position: absolute;
   bottom: 1.25rem;
