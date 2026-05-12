@@ -43,14 +43,14 @@ button {
   --c-primary-light: #e6efe9;
   --c-accent: #c98a5a;         /* warm clay */
   --c-accent-dark: #a86d40;
-  --c-bg: #f9f3e6;             /* cream / crudo */
-  --c-bg-alt: #f1e7cf;         /* deeper cream for alt sections */
-  --c-bg-cream: #ede1c5;       /* deepest cream */
+  --c-bg: #fcf8ee;             /* cream / crudo claro */
+  --c-bg-alt: #f5eedb;         /* cream alt */
+  --c-bg-cream: #ebe1c8;       /* deeper cream */
   --c-card: #ffffff;           /* white cards over cream */
   --c-text: #2a342f;           /* warm charcoal */
   --c-text-soft: #5a6660;
   --c-muted: #8b938e;
-  --c-border: #e4dcc5;         /* warm border */
+  --c-border: #ece4cc;         /* warm border */
   --c-star: #d4a02e;
 
   --radius-sm: 8px;
